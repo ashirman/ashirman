@@ -1,6 +1,15 @@
 # Alexey Shirmanov
 
-Contact
+### Contacts
+
+email: ashirman8@gmail.com
+
+skype: alexey.shirmanov
+
+github: [https://github.com/ashirman](https://github.com/ashirman)
+
+linkedin: [https://www.linkedin.com/in/alexey-shirmanov/](https://www.linkedin.com/in/alexey-shirmanov/)
+
 
 ### Summary
 
@@ -31,6 +40,7 @@ DataDog, LaunchDarkly, PagerDuty. CI/CD including deep check and postdeployment 
 _(June 2017 - April 2018),_ _Nizhny Novgorod Region, Russian Federation_
 
 development and bugfix of Qligent Vision SaaS platform.
+
 - Spring MVC, GWT, Apache RRD
 
 ---
@@ -41,11 +51,13 @@ _(October 2014 - May 2017),_  _Nizhny Novgorod Region, Russian Federation_
 development and bugfix of [Wiley Efficient Learning](https://www.efficientlearning.com/) platform,
 architecture, design & implementation of WEL technology stack adapted for
 [LTI/Canvas](https://www.canvaslms.com) integration. technical consultation and solution review.
+
 - Java7/8, Spring MVC, REST services, PostgreeSQL, JDBC
   templates, JNDI, JTA(Atomicos), maven, git, testng, mockito, hamcrest,
 - Selenium web driver, jquiery ui, MVP, json, xml, handlebar templates,
   requirejs, qunit, jmockito, grunt, nodejs  
-___
+ 
+---
 
 #### [Netcracker](https://www.netcracker.com/)
 _(October 2013 - October 2014),_ _Nizhny Novgorod Region, Russian Federation_
@@ -64,6 +76,7 @@ _(October 2008 - October 2013),_ _Nizhny Novgorod Region, Russian Federation_
 As a part of Avaya Aura Conferencing team I have been developing features (including technical specifications and
 coding), making technical decisions, supervising a team of 8 developers. We ported enterprise portal from Jboss 
 app server to Tomcat and developed multiple web components for next generation of Avaya Conferencing solution.
+
 -  Java SE/EE, Portlets, IPC, Jetspeed, Ant, Maven, JaaS,
   JSP, Servlets, JSF, XML, SOAP, SoapUI, Web Services, HTML, OpenAM,
 
@@ -72,19 +85,12 @@ app server to Tomcat and developed multiple web components for next generation o
 ### Education
 
 [Nizhniy Novgorod State Technical University named after R.Y.
- Alekseev (NSTU)](https://www.nntu.ru/) 
- 
-Master degree, Electrical and Electronics Engineering (2008 - 2010)
+ Alekseev (NSTU)](https://www.nntu.ru/) Master degree, Electrical and Electronics Engineering (2008 - 2010)
 
 [Nizhniy Novgorod State Technical University named after R.Y.
- Alekseev (NSTU)](https://www.nntu.ru/)
+ Alekseev (NSTU)](https://www.nntu.ru/) Bachelor degree, Electrical and Electronics Engineering (2004 - 2008)
 
-Bachelor degree, Electrical and Electronics Engineering (2004 - 2008)
-
-[Nizhniy Novgorod Institute of Information Technologies (NIIT)](http://nniit.ru)
-
-Software Development courses (2008 - 2009)
-
+[Nizhniy Novgorod Institute of Information Technologies (NIIT)](http://nniit.ru) Software Development courses (2008 - 2009)
 
 ---
 
