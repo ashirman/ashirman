@@ -1,0 +1,1 @@
+pandoc cv.md --output=index.html --to=html5 --css=./css/pandoc.css --highlight-style=haddock --self-contained --metadata pagetitle="Alexey Shirmanov CV"
