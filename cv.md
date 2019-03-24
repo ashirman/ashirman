@@ -10,10 +10,11 @@ github: [https://github.com/ashirman](https://github.com/ashirman)
 
 linkedin: [https://www.linkedin.com/in/alexey-shirmanov/](https://www.linkedin.com/in/alexey-shirmanov/)
 
+website: [https://ashirman.github.io](https://ashirman.github.io)
 
 ### Summary
 
-Strong Java/Kotlin & Javascript developer. Love clear awesome
+Strong Java/Kotlin & Javascript developer with 10+ years of experience in different areas including startups and enterprise projects. Love clear awesome
 source code which follows TDD principles. Spring Professional v5.0
 Pivotal certified developer. Always keep in mind a balance between
 customer/developer/management/architectural needs
